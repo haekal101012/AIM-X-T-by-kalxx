@@ -5,5 +5,4 @@
     android:accessibilityFlags="flagDefault|flagRequestTouchExplorationMode|flagRetrieveInteractiveWindows|flagReportViewIds|flagIncludeNotImportantViews"
     android:canPerformGestures="true"
     android:canRetrieveWindowContent="true"
-    android:description="Membantu optimasi antarmuka dan aksesibilitas sistem."
     android:settingsActivity="com.kalxx.uiassist.MainActivity" />
